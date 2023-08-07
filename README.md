@@ -22,7 +22,7 @@ Initial pre-trained weigths of MViTv2-B are available [here](https://github.com/
 
 An example command line for the training:
 ```bash
-python train.py --data_root {PATH/TO/DATASET} --dataset {DATASET_NAME} --pretrained {PATH/TO/PRETRAINED_MODEL} --gpu_ids {GPU_IDs}
+python train.py --data_root {PATH/TO/DATASET} --dataset {DATASET_NAME} --gpu_ids {GPU_IDs}
 ```
 
 An example command line for the evaluation:
