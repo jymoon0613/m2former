@@ -27,7 +27,7 @@ python train.py --data_root {PATH/TO/DATASET} --dataset {DATASET_NAME} --pretrai
 
 An example command line for the evaluation:
 ```bash
-python eval.py --pretrained_model {PATH/TO/PRETRAINED_MODEL} --data_root {PATH/TO/DATASET} --dataset {DATASET_NAME} --pretrained {PATH/TO/PRETRAINED_MODEL} --gpu_ids {GPU_IDs}
+python eval.py --pretrained_model {PATH/TO/PRETRAINED_MODEL} --data_root {PATH/TO/DATASET} --dataset {DATASET_NAME} --gpu_ids {GPU_IDs}
 ```
 
 ## References
