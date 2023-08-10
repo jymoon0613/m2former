@@ -39,10 +39,10 @@ Parts of our codes based on:
 If you use this for research, please cite. Here is an example BibTeX entry:
 
 ```
-@article{moon2023simfle,
-  title={SimFLE: Simple Facial Landmark Encoding for Self-Supervised Facial Expression Recognition in the Wild},
-  author={Moon, Jiyong and Park, Seongsik},
-  journal={arXiv preprint arXiv:2303.07648},
+@article{moon2023m2former,
+  title={M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition},
+  author={Moon, Jiyong and Lee, Junseok and Lee, Yunju and Park, Seongsik},
+  journal={arXiv preprint arXiv:2308.02161},
   year={2023}
 }
 ```
