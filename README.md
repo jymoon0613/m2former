@@ -1,4 +1,4 @@
-## M2Former for FGVR
+# M2Former for FGVR
 This is a PyTorch implementation of the paper "***M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition***"<br>
 
 [arXiv](https://arxiv.org/abs/2308.02161)
