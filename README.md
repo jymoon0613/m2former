@@ -10,6 +10,15 @@ Recently, vision Transformers (ViTs) have been actively applied to fine-grained 
     <img width="1000" alt="simfle" src="./src/architecture.png">
 </p>
 
+## Dependencies
+- cudatoolkit 11.0
+- pytorch 1.7.1
+- numpy 1.23.4
+- pillow 9.2.0
+- pandas 1.5.2
+- einops 0.6.0
+- matplotlib 3.7.0
+
 ## Data Preparation
 In the paper, we use data from two publicly available datasets:
 
