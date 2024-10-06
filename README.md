@@ -56,7 +56,6 @@ VOLUME = {14},
 YEAR = {2024},
 NUMBER = {19},
 ARTICLE-NUMBER = {8710},
-URL = {https://www.mdpi.com/2076-3417/14/19/8710},
 ISSN = {2076-3417},
 }
 ```
