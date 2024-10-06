@@ -48,11 +48,16 @@ Parts of our codes based on:
 If you use this for research, please cite. Here is an example BibTeX entry:
 
 ```
-@article{moon2023m2former,
-  title={M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition},
-  author={Moon, Jiyong and Lee, Junseok and Lee, Yunju and Park, Seongsik},
-  journal={arXiv preprint arXiv:2308.02161},
-  year={2023}
+@Article{app14198710,
+AUTHOR = {Moon, Jiyong and Park, Seongsik},
+TITLE = {M2Former: Multiscale Patch Selection for Fine-Grained Visual Recognition},
+JOURNAL = {Applied Sciences},
+VOLUME = {14},
+YEAR = {2024},
+NUMBER = {19},
+ARTICLE-NUMBER = {8710},
+URL = {https://www.mdpi.com/2076-3417/14/19/8710},
+ISSN = {2076-3417},
 }
 ```
 
